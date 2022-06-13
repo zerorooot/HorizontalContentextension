@@ -10,7 +10,7 @@
 
 3、安装[miui传送门](util/传送门_2.5.18.apk)
 
-4、安装此[app](util/app-release-1.0.apk)，并在LSPosed中勾选
+4、安装此[app](util/app)，并在LSPosed中勾选
 
 5、使用[创建快捷方式](util/创建快捷方式.apk)，启用传送门，确保在竖屏模式下能正常使用
 

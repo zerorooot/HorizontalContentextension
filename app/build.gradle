@@ -10,16 +10,16 @@ android {
         applicationId "github.zerorooot.horizontalcontentextension"
         minSdk 24
         targetSdk 32
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
     buildTypes {
         release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro','proguard-log.pro'
         }
     }
     compileOptions {

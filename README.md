@@ -2,6 +2,8 @@
 
 强行在横屏模式下启用miui传送门
 
+# 注:从3.2.x 的传送门开始,小米取消了传送门在横屏下的限制
+
 # 如何使用
 
 1、安装[Magisk](https://github.com/topjohnwu/Magisk)
